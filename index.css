@@ -1,0 +1,43 @@
+body {
+  background-color: blanchedalmond;
+}
+
+article {
+  background-color: whitesmoke;
+  border-radius: 20px;
+  margin: 15px;
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+  text-align: justify;
+  border-width: 0.5px;
+  width: 600px;
+}
+
+.text-size {
+  font-size: 50px;
+  font-style: italic;
+  color: black;
+}
+
+#margin-size {
+  margin-left: 100px;
+}
+
+#header-size {
+  font-size: 100px;
+}
+
+button {
+  background-color: green;
+  color: white;
+  text-align: center;
+  width: 100px;
+  height: 30px;
+  border-radius: 10px;
+  border: none;
+}
+
+button:hover {
+    background-color: blue;
+}
